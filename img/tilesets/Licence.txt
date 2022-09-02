@@ -1,0 +1,25 @@
+================================
+Royal AddOn 2017 rpgmaker-mv.de
+================================
+
+Nutzungsbedingungen
+================================
+Diese Ressourcen sind für den RPG Maker MV von Kadokawa erstellt, nur mit der Lizenz für diesen Maker und nur in RM-Projekten zu verwenden.
+Sie nutzten das RTP als Basis (somit allgemein als "Edits" bekannt) und damit liegt das Urheberrecht ebenfalls bei Kadokawa.
+
+- Sie stehen kostenlos zur Verfügung. 
+- Verwendung unter der Angabe von PandaMaru und TheRealFusion in den Credits. 
+- Bearbeitung für eigene Zwecke erlaubt. 
+- Verlinkung zum Thread erlaubt.
+- Bitte kein Reposting der Ressourcen auf anderen Seiten ohne Erlaubnis. 
+- Verbreitung (auch von veränderten Ressourcen) nur unter gleichen Bedingungen.
+
+Terms of Service
+================================
+These resources are created for RPG Maker MV by Kadokawa. You need to own a legal licence for this particular RPG Maker.
+You are only allowed to use these ressurces in your RPG Maker projects. The resources are build upon the original Run Time Package (RTP) - therefore they are "edits" and all creative rights belong to Enterbrain/Kadokawa. 
+
+- Resources are free to use, but you must credit PandaMaru and TheRealFusion.
+- You are free to alter the resources for your own purpose.
+- If you alter or build upon the material, you must distribute your contributions under the same license as the original.
+- Please don't repost resources, link back to this thread.
